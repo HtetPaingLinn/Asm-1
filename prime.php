@@ -6,7 +6,7 @@
     <title>Prime numbers</title>
 </head>
 <body>
-    <h2>Prime numbers</h2>
+    <h2>Prime numbers between 1 and 100</h2>
     <div style="width: 550px; word-wrap: break-word; border: 1px solid #666; font-size: 30px; padding: 20px 40px 20px 40px;">
         <?php
         $isFirst = true;
